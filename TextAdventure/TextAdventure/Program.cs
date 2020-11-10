@@ -208,9 +208,9 @@ namespace Adventure
 
         static void GameTitle()
         {
-            string Title = @"Your title here";
+            string Title = @"You Make the Call!";
             Console.Title = Title;
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Red;
             //game title
             Console.WriteLine(Title);
             //game slogan/subtitle

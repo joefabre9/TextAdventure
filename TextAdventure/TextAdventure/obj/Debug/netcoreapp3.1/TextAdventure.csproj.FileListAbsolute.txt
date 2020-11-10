@@ -1,0 +1,12 @@
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.deps.json
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.runtimeconfig.json
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.runtimeconfig.dev.json
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.dll
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.1/TextAdventure.pdb
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.csprojAssemblyReference.cache
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.AssemblyInfoInputs.cache
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.AssemblyInfo.cs
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.csproj.CoreCompileInputs.cache
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.dll
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.pdb
+/Users/joefabre/Desktop/_fullStack/_repos/TextAdventure/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.1/TextAdventure.genruntimeconfig.cache
