@@ -1,7 +1,7 @@
 ﻿/*
- * [Your Title]
- * by Your Name, Date
- *  
+ * Egg Hunt
+ * Joe Fabre, November 2020
+ * <<Uses of the cod was approved with credit given.  The code did help my knowledge development.>> 
  * This work is a derivative of 
  * "C# Adventure Game" by http://programmingisfun.com, used under CC BY.
  * https://creativecommons.org/licenses/by/4.0/
