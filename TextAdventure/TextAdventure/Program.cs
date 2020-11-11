@@ -231,7 +231,8 @@ namespace Adventure
         {
             Game.StartGame();
             Console.Read();
-            Typewrite("Good Bye!");
+            //Does not need to be part of the program, but a fun exit.
+            Typewrite("That's all folks!");
             Console.ReadKey();
         }
         static void Typewrite(string message)
