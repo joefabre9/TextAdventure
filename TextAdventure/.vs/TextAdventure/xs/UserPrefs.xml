@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{6A755AB0-9870-479A-A272-515E8A95874F}|Default">
-  <MonoDevelop.Ide.ItemProperties.TextAdventure FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TextAdventure PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TextAdventure/Program.cs">
     <Files>
-      <File FileName="TextAdventure/Program.cs" Line="237" Column="2" />
+      <File FileName="TextAdventure/Program.cs" Line="213" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
