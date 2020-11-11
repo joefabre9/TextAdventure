@@ -22,17 +22,17 @@ namespace Adventure
             "The power in the building goes out! As you move down the hallway \nyou hear what sounds like a large animal nearby. You move the \numbrella in a widening arc in front of you to scare it, \nand the animal skitters off.",
             "The lights return and you move into a room at the end of the hall. \nThere is a vending machine.",
             "Luckily " + CharacterName + " you have that coin you found and you buy yourself a snack.",
-            "Too bad you don't have a coin on you," + CharacterName + ",\nor you would have been able to get a snack.",
+            "Too bad you don't have a coin on you," + CharacterName + "\nor you would have been able to get a snack.",
             "You begin to climb the stairs to the next floor."
         };
         static string[] PartTwo = {
-            "Description of story part two ... and the choice A or B",
-            "... part two - what happens if A is chosen...",
-            "... part two - what happens if B is chosen...",
-            "....more story.... .",
-            "... part two, again - what happens if A is chosen...",
-            "... part two again - what happens if B is chosen...",
-            "You begin to climb the stairs to the next floor...."
+            "At the top of the steps of the second floor of the building you see a trashcan.\nAs you near, you see an empty gum wrapper in the trashcan and other common trash items.\nOnly the gum wrapper seems useful. All you can focus on is that metalic gum wrapper.\nYou hesitate to dig in the trashcan to retrieve it, and say to your self, To take or not to take?.\nTo choose type either A to take the wrapper, or B to not take the wrapper.",
+            "You place the wrapper in your pocket and stroll down a dimly lit hallway - you chuckle to yoursefl and think how you just dug into a trashcan for a gum wrapper. \nYou find yourself in front  \nsudden brightness and takes off. As you move the light again, \nsomething glitters. You reach down and pick up a coin!",
+            "You place your hands in your pocket and stroll down a dimly lit hallway. As you move down the hallway \nyou hear what sounds like a large animal nearby. You move the \numbrella in a widening arc in front of you to scare it, \nand the animal skitters off.",
+            "The lights return and you move into a room at the end of the hall. \nThere is a vending machine.",
+            "Luckily " + CharacterName + " you have that coin you found and you buy yourself a snack.",
+            "Too bad you don't have a coin on you," + CharacterName + "\nor you would have been able to get a snack.",
+            "You begin to climb the stairs to the next floor."
         };
         static string[] PartThree = {
             "Description of story part three... and the choice A or B",
@@ -123,7 +123,7 @@ namespace Adventure
                         //Part Two
 
                         Console.WriteLine(PartTwo[0]);
-                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.ForegroundColor = ConsoleColor.DarkGreen;
                         Console.Write("Enter your choice: ");
                         input = Console.ReadLine();
                         input = input.ToLower();
@@ -154,7 +154,7 @@ namespace Adventure
                     case 3:
                         //Part Three
                         Console.WriteLine(PartThree[0]);
-                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.ForegroundColor = ConsoleColor.DarkGreen;
                         Console.Write("Enter your choice: ");
                         input = Console.ReadLine();
                         input = input.ToLower();
@@ -196,7 +196,7 @@ namespace Adventure
         static void NameCharacter()
         {
             Console.WriteLine("You need a code name for this mission. What will it be?");
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.Write("Enter your code name: ");
 
             CharacterName = Console.ReadLine();
