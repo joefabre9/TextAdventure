@@ -17,7 +17,7 @@ namespace Adventure
         static string CharacterName;
 
         static string[] PartOne = {
-            "At the front of the swank building you see a tired old man with a buggy.\nAs you near, you see the buggy is filled with what looks like mostly junk and only a few useful items. All you have on you is piece of a candy.\nYou offer it to him, and he says he'll trade a flashlight or an umbrella for it.\nTo choose type either A for the flashlight, or B for the umbrella.",
+            "At the front of the swank building you see a tired old man with a buggy.\nAs you near, you see the buggy is filled with what looks like mostly junk and \nonly a few useful items. All you have on you is piece of a candy.\nYou offer it to him, and he says he'll trade a flashlight or an umbrella for it.\nTo choose type either A for the flashlight, or B for the umbrella.",
             "The power in the building goes out - luckily you have a flashlight! \nYou move the light around and a large animal is frightened by the \nsudden brightness and takes off. As you move the light again, \nsomething glitters. You reach down and pick up a coin!",
             "The power in the building goes out! As you move down the hallway \nyou hear what sounds like a large animal nearby. You move the \numbrella in a widening arc in front of you to scare it, \nand the animal skitters off.",
             "The lights return and you move into a room at the end of the hall. \nThere is a vending machine.",
@@ -208,13 +208,13 @@ namespace Adventure
 
         static void GameTitle()
         {
-            string Title = @"You Make the Call!";
+            string Title = @"A or B!";
             Console.Title = Title;
             Console.ForegroundColor = ConsoleColor.Red;
             //game title
             Console.WriteLine(Title);
             //game slogan/subtitle
-            Console.WriteLine("An Awesome Adventure Game");
+            Console.WriteLine("An Awesome Beginner Adventure Game");
             Console.ResetColor();
             Console.WriteLine("Press enter to start");
             Console.ReadKey();
@@ -231,6 +231,16 @@ namespace Adventure
         {
             Game.StartGame();
             Console.Read();
+            Typewrite("Good Bye!");
+            Console.ReadKey();
+        }
+        static void Typewrite(string message)
+        {
+            for (int i = 0; i < message.Length; i++)
+            {
+                Console.WriteLine(message[i]);
+                System.Threading.Thread.Sleep(300);
+            }
         }
 
     }
