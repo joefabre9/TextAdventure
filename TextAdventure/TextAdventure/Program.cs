@@ -35,13 +35,13 @@ namespace Adventure
             "You assess your next move - make it a good one - you say to yourself."
         };
         static string[] PartThree = {
-            "Description of story part three... and the choice A or B",
-            "... part 3 - what happens if A is chosen...",
-            "... part 3 - what happens if B is chosen...",
-            "....more story.... .",
-            "... part 3, again - what happens if A is chosen...",
-            "... part 3 again - what happens if B is chosen...",
-            "You begin to climb the stairs to the next floor...."
+            "Inside of the office you realize you are one step closer to solving the puzzle.\nYou look around, and notice the office is filled with old metal desks.\nYou hesitate for a moment, but begin to rifle through the desks.  When all of a sudden you hear footsteps.  You think of hiding under a desk or running out the door.\nTo choose type either A to hide, or B to run.",
+            "You duck under a desk in the nick of time as the night watchman strolls in to the open office. He shines his light back and forth scanning the room, and takes a seat at the desk in front of the one you are hiding under. \nThe guard pulls out a cellphone and dials a number; he begins to have a long conversation with his signifigant other.\nYou patiently wait for the conversation to end, and the guard leaves the office, locking behind him.",
+            "You run out of the office in a panic. BAM! You run right into the arms of the night watchman. He begins to question you, asking who you are and why are you in the building this late. He stares at you sternly with great curiosity. \nYou curse yourself - why didn't I just hide? The guard grows impatient, and reaches for his radio - base this is - HEY STOP! HAULT - you run past hime down the flight of stairs and out of the building into the night...",
+            "With some relief you sigh then inhale deeply.",
+            "Luckily " + CharacterName + " you hid under the desk as you were able to gain vaulable informaiton from the guard. You found out the exact location of the safe containing the hiddend treasures - personel files.",
+            "Too bad you ran," + CharacterName + "\nas soon as you thought the coast was clear a beat cop grabbed you and took you into custody for questioning.",
+            //"You assess your next move - make it a good one - you say to yourself."
         };
 
         public static void StartGame()
