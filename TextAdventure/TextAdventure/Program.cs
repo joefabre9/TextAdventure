@@ -29,10 +29,10 @@ namespace Adventure
             "At the top of the steps of the second floor of the building you see a trashcan.\nAs you near, you see an empty gum wrapper in the trashcan and other common trash items.\nOnly the gum wrapper seems useful. All you can focus on is that metalic gum wrapper.\nYou hesitate to dig in the trashcan to retrieve it, and say to your self, To take or not to take?.\nTo choose type either A to take the wrapper, or B to not take the wrapper.",
             "You place the wrapper in your pocket and stroll down a dimly lit hallway - you chuckle to yoursefl and think how you just dug into a trashcan for a gum wrapper. \nYou find yourself in front of a locked glass door at the end of the hallway, which has an old wired alarm system. \nYou can faintly see inside of the room beyond the glass door.\nYou notice something glittering on the floor - it is a key marked OFFICE. You reach down and pick up the key!",
             "You place your hands in your pocket and stroll down a dimly lit hallway. As you move down the hallway - you can't believe you actually thought about digging in a trash can. \nYou find yourself in front of a locked glass door at the end of the hallway, which has an old wired alarm system. \nYou can faintly see inside of the room beyond the glass door. \nYou notice something glittering on the floor - it is a key marked OFFFICE.  Your reach down and bick up the key!",
-            "The lights return and you move into a room at the end of the hall. \nThere is a vending machine.",
-            "Luckily " + CharacterName + " you have that coin you found and you buy yourself a snack.",
-            "Too bad you don't have a coin on you," + CharacterName + "\nor you would have been able to get a snack.",
-            "You begin to climb the stairs to the next floor."
+            "With great curiosity you wonder is this key to this office. \nYour stomach fills with excitment, you proceed to enter the room.",
+            "Luckily " + CharacterName + " you have that wrapper you found to bypass the wired alarm system just like Eddie Murphy did in Beverly Hills Cop.",
+            "Too bad you don't have that wrapper on you," + CharacterName + "\nas soon as you unlocked the door you set of the alarm which is now blasting loudly.",
+            "You assess your next move - make it a good one - you say to yourself."
         };
         static string[] PartThree = {
             "Description of story part three... and the choice A or B",
