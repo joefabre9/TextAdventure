@@ -41,7 +41,7 @@ namespace Adventure
             "With some relief you sigh then inhale deeply.",
             "Luckily " + CharacterName + " you hid under the desk as you were able to gain vaulable informaiton from the guard. You found out the exact location of the safe containing the hiddend treasures - personel files.",
             "Too bad you ran," + CharacterName + "\nas soon as you thought the coast was clear a beat cop grabbed you and took you into custody for questioning.",
-            //"You assess your next move - make it a good one - you say to yourself."
+            "Is this the END?"
         };
 
         public static void StartGame()
@@ -147,7 +147,7 @@ namespace Adventure
                         {
                             Console.WriteLine(PartTwo[5]);
                         }
-                        Console.WriteLine(PartTwo[6]);
+                        Console.WriteLine(PartTwo[5]);
 
                         break;
 
