@@ -1,9 +1,6 @@
 ﻿<Properties StartupConfiguration="{6A755AB0-9870-479A-A272-515E8A95874F}|Default">
   <MonoDevelop.Ide.ItemProperties.TextAdventure PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextAdventure/Program.cs">
-    <Files>
-      <File FileName="TextAdventure/Program.cs" Line="150" Column="52" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
